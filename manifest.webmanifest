@@ -1,0 +1,13 @@
+{
+  "name": "Global Fish Connect",
+  "short_name": "GFC",
+  "description": "A bilingual global seafood marketplace connecting fishers, traders, exporters and buyers.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f7fbfa",
+  "theme_color": "#073b4c",
+  "icons": [
+    {"src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable"}
+  ]
+}
